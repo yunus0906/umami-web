@@ -63,6 +63,9 @@
   "cacheDirectories": [
     ".next/cache"
   ],
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
     "@clickhouse/client": "^1.4.1",
     "@date-fns/utc": "^1.2.0",
